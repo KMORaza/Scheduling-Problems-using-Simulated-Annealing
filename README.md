@@ -1,4 +1,4 @@
-### Solutions of some Scheduling Problems using Simulated Annealing
+#### Solution of some Scheduling Problems using Simulated Annealing
  * Assembly Sequence Planning (ASP)
  * Cyclic Scheduling Problem (CSP)
  * Flexible Job-Shop Scheduling Problem (FJSP)
